@@ -1,0 +1,10 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Simple AWS CI/CD demonstration application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+
